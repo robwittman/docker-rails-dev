@@ -16,7 +16,9 @@ cp /path/to/my.env .env
 docker-compose up
 ```
 
+Head to http://localhost:3000 (by default) and 'Welcome aboard'
+
 ### Services
 
 There are a few services bundled with the environment. You can add them by uncommenting their
-respective section in docker-compose.yml, or even adding custom ones 
+respective section in docker-compose.yml, or even adding custom ones
